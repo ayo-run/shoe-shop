@@ -118,3 +118,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+*~
+*swo
+*swp
