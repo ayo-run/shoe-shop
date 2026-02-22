@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npm run build --workspaces --if-present",
-    "preview": "npm run preview -workspaces --if-present"
+    "preview": "npm run preview -workspaces --if-present",
+    "prepare": "husky"
   },
   "author": "",
   "license": "ISC",
@@ -17,5 +18,8 @@
     "app-products",
     "app-shell",
     "utils"
-  ]
+  ],
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
 }

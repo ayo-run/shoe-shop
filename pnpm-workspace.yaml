@@ -1,0 +1,6 @@
+packages:
+  - "app-cart"
+  - "app-heading"
+  - "app-products"
+  - "app-shell"
+  - "utils"
