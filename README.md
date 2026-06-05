@@ -1,5 +1,11 @@
-> [!WARNING]
-> This is just a demonstration, not a recommendation. Don't hesitate to reach out if you have questions. -ayo 
+> [!WARNING]<br>
+> This is just a demonstration,<br>
+> Not a recommendation.<br>
+> Don't hesitate to reach out<br>
+> If you have questions.<br>
+>
+> Break it down, yo...<br>
+> -ayo
 
 # Scalable Shoe Shop
 
